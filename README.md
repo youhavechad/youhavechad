@@ -11,4 +11,4 @@
 <pre>
 
 </pre>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavechad&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavechad&count_private=true&show_icons=true&theme=midnight-purple&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)

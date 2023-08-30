@@ -5,7 +5,6 @@
 😄&nbsp;&nbsp;&nbsp;Pronouns: he/him/his  
 ⚡&nbsp;&nbsp;&nbsp;Fun facts: I'm a vegan, I have done the Sydney BridgeClimb, I have ran a half-marathon  
 :muscle:&nbsp;&nbsp;&nbsp;Active roles at work: Digital Product Manager. Product Owner Networking Group Coordinator. 
-
 Former roles: Full Stack Software Engineer, Threat Modeling Lead on team, Accessiblity Lead on team  
 :speech_balloon:&nbsp;&nbsp;&nbsp;One of my favorite accessiblity quotes:
 

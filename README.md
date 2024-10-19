@@ -1,5 +1,5 @@
 ### Hello beautiful people! 👋 A few things about me:
-
+# Looking for my next opportunity.... AI Product Management
 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Python and Machine Learning  
 💬&nbsp;&nbsp;&nbsp;Ask me about increasing your digital accessibility  
 😄&nbsp;&nbsp;&nbsp;Pronouns: he/him/his  
